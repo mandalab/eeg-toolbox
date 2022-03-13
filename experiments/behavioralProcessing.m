@@ -1,6 +1,6 @@
 function behavioralProcessing(subject,rootEEGdir,taskType,altBehDir)
 
-% BehavioralProcessing.m€™ extracts events for each task.
+% BehavioralProcessing.mâ‚¬â„¢ extracts events for each task.
 %
 % Input:
 %      subject = 'NIHXXX',
