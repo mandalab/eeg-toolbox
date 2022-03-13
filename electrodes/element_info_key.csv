@@ -1,0 +1,4 @@
+ColumnName,subjId,tagName,bigDim,smallDim,whichHemi,fullTagName,hardwareType,spacing,chanType,isCut,recDontUse,isIctal,isInterictal,isResected,dateIn,dateOut,exposedRad,modelNum,notes
+Format,NIHXXX,char,numeric,numeric,[lh/rh],char,[subdural/micro-subdural/microwire/utah/depth],numeric,[PHYS/CLIN/SYNC],array,array,array,array,array,date,date,numeric,char,char
+Notes,,abbreviated description,grid dimesnion,grid dimension,left hemisphere/right hemisphere. Lh=left and rh=right,full description,Choose the type of hardware from available choices or leave blank,spacing between electrodes on hardware,"""physiological"" is for channels we're analyzing. example of clinical: references and EKG",list of electrodes cut,list of electrodes that were recorded but shouldnêt be split [add Note saying why],,,,date pulled/moved/removed,,,,Any free text notes
+inJacksheet,1,0,0,0,1,0,1,1,1,0,0,1,1,1,1,1,0,0,0
