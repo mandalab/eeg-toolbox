@@ -1,0 +1,38 @@
+﻿ref_set_name,subj,channel_string,channel_num_set,array_num,"array_location ( temporal, parietal,  frontal)",description
+NIH029_1T,NIH029,utah,0.108333333,1,temporal,"Cereplex I serial #000101 old style, with ground leads; new and old digital hubs (more anterior and superior). Left Superior MTG"
+NIH029_2T,NIH029,utah,0.108333333,2,temporal,"Cereplex I serial #000104 new style, with chassis grounded. Left Anterior MTG"
+NIH030_1T,NIH030,utah,0.108333333,1,temporal,Cereplex I serial #000102 old style; right MTG (?);
+NIH034_1T,NIH034,utah,0.108333333,1,temporal,"Cereplex I serial #14374; posterior (MTG according to KZ), worked well   possible mix up on which was which"
+NIH034_2T,NIH034,utah,0.108333333,2,temporal,"Cereplex I serial #14377; anterior (STG), failed early"
+NIH036_1T,NIH036,utah,0.108333333,1,temporal,"Cereplex I serial #14376; MTG placement .  Non-functioning (no single units, possibly all noise)"
+NIH037_1T,NIH037,utah,0.108333333,1,temporal,"Cereplex I serial #14380;  Anterior MTG placement, Marked  worked well  entire time"
+NIH037_2T,NIH037,utah,0.108333333,2,temporal,Cereplex I serial #14375;  Posterior MTG placement; Unmarked  worked well for a few days then failed
+NIH039_1T,NIH039,utah,0.108333333,1,temporal,"Cereplex I serial #14381; Posterior MTG, Marked pigtail.  Worked entire time, but with low unit yield "
+NIH039_2T,NIH039,utah,0.108333333,2,temporal,"Cereplex I serial #14392; Anterior MTG, unmarked pigtail.  Failed after 6 days.  Had a few units before that"
+NIH042_1F,NIH042,UF,0.108333333,1,frontal,"Cereplex I serial #14398; Frontal, Marked pigtail.  1.0mm array (all previous arrays were 1.5mm)"
+NIH042_2T,NIH042,UT,0.108333333,2,temporal,"Cereplex I serial #14397; Anterior MTG, unmarked pigtail. 1.0mm array"
+NIH046_1P,NIH046,utah,0.108333333,1,parietal,Cereplex I serial # 14382; right parietal (angular gyrus).  1.0mm array?
+NIH047_1T,NIH047,utah,0.108333333,1,temporal,Cereplex I serial #14388; left MTG.  1.0mm array
+NIH049,NIH049,LADM,1:16,1,hippocampal,
+NIH050_1T,NIH050,MAID,0.108333333,3,depth,
+NIH050_2T,NIH050,MPID,0.108333333,3,depth,
+NIH050_3T,NIH054,utah,0.108333333,1,temporal,"Cereplex I serial SN 14402;  right MTG, ~3-4cm from pole.  1.0mm array"
+NIH051_1T,NIH051,LLCDM,1:16,,depth,
+NIH051_2T,NIH051,LLCD  ,1:08,,depth,
+NIH052_1T,NIH052,RAHDm,1:16,,depth,
+NIH052_2T,NIH052,LAHDm,1:16,,depth,
+NIH053_1T,NIH053,LADm,1:16,,depth,
+NIH053_2T,NIH053,RADm,1:16,,depth,
+NIH054_1T,NIH057,utah,0.108333333,1,temporal,"Cereplex I serial SN 14404;  left MTG, ~3-4cm from pole.  1.0mm array"
+NIH057_1T,NIH059,utah,0.108333333,1,temporal,"Cereplex I serial SN 14410;  left MTG, ~3-4cm from pole.  1.0mm array"
+NIH059_1T,NIH062,utah,0.086111111,1,temporal,"Cereplex SI serial SN 000002;  left MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH062_1T,NIH062,utah,65:128,2,temporal,"Cereplex SI serial SN 000002;  left MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH062_2T,NIH063,utah,0.086111111,1,temporal,"Cereplex SI serial SN 000001;  right MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH063_1T,NIH063,utah,65:128,2,temporal,"Cereplex SI serial SN 000001;  right MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH063_2T,NIH064,utah,0.086111111,1,temporal,"Cereplex I serial SN 14415;  right MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT (2x64 chan)"
+NIH064_1T,NIH064,utah,65:128,2,temporal,"Cereplex I serial SN 14415;  right MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT (2x64 chan)"
+NIH064_2T,NIH066,utah,0.086111111,1,temporal,"Cereplex SI serial SN 10658-003;  left MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH066_1T,NIH066,utah,65:128,2,temporal,"Cereplex SI serial SN 10658-003;  left MTG, ~2-4cm from pole.  1.0mm array. MULTI-PORT w/STIM (2x64 chan)"
+NIH066_2T,NIH069,utah_pmtg,0.086111111,1,temporal,pmtg
+NIH069_1T,NIH069,utah_amtg,0.086111111,2,temporal,amtg
+NIH069_2T,,,,,,
