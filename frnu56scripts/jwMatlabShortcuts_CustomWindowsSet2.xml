@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomKeySet derivedfrom="Windows" modifieddefault="false">
+   <Context id="Global">
+      <Action id="evaluate-selection">
+         <Stroke code="VK_F9"/>
+         <Stroke code="VK_F6"/>
+      </Action>
+      <Action id="debug-step-in">
+         <Stroke code="VK_F11"/>
+         <Stroke code="VK_F8"/>
+      </Action>
+      <Action id="comment">
+         <Stroke code="VK_R" ctrl="on"/>
+         <Stroke code="VK_PERIOD" ctrl="on" meta="on" sysctrl="on"/>
+         <Stroke alt="on" code="VK_RIGHT" ctrl="on"/>
+         <Stroke alt="on" code="VK_KP_RIGHT" ctrl="on"/>
+      </Action>
+      <Action id="debug-step">
+         <Stroke code="VK_F10"/>
+         <Stroke code="VK_F7"/>
+      </Action>
+      <Action id="uncomment">
+         <Stroke code="VK_COMMA" ctrl="on" meta="on" sysctrl="on"/>
+         <Stroke alt="on" code="VK_LEFT" ctrl="on"/>
+         <Stroke alt="on" code="VK_KP_LEFT" ctrl="on"/>
+      </Action>
+      <Action id="split-screen-switch-focus"/>
+      <Action id="extract-archive"/>
+      <Action id="insert-break"/>
+      <Action id="debug-step-out">
+         <Stroke code="VK_F11" shift="on"/>
+         <Stroke code="VK_F8" shift="on"/>
+      </Action>
+   </Context>
+   <Context id="Explorer">
+      <Action follows="None" id="open-selection">
+         <Stroke code="VK_D" meta="on" sysctrl="on"/>
+      </Action>
+   </Context>
+   <Context id="Project">
+      <Action id="open-selection"/>
+   </Context>
+</CustomKeySet>

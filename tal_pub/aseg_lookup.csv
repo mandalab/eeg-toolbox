@@ -1,0 +1,51 @@
+short,full,pretty
+Unknown,Unknown,Unknown
+Left-Cerebral-White-Matter,White Matter,White Matter
+Left-Cerebral-Cortex,Cerebral Cortex ,Cerebral Cortex 
+Left-Lateral-Ventricle,Lateral Ventricle ,Lateral Ventricle 
+Left-Inf-Lat-Vent,Inferior Lateral Ventricle ,Inferior Lateral Ventricle 
+Left-Cerebellum-White-Matter,Cerebellum White Matter ,Cerebellum White Matter 
+Left-Cerebellum-Cortex,Cerebellum Cortex ,Cerebellum Cortex 
+Left-Thalamus-Proper,Thalamus ,Thalamus 
+Left-Caudate,Caudate ,Caudate 
+Left-Putamen,Putamen ,Putamen 
+Left-Pallidum,Pallidum ,Pallidum 
+3rd-Ventricle,Third Ventricle ,Third Ventricle 
+4th-Ventricle,Fourth Ventricle ,Fourth Ventricle 
+Brain-Stem,Brain Stem ,Brain Stem 
+Left-Hippocampus,Hippocampus ,Hippocampus 
+Left-Amygdala,Amygdala ,Amygdala 
+CSF,Cerebrospinal Fluid ,Cerebrospinal Fluid 
+Left-Accumbens-area,Accumbens area ,Accumbens area 
+Left-VentralDC,Ventral Diencephalon ,Ventral Diencephalon 
+Left-vessel,Vessel,Vessel
+Left-choroid-plexus,Choroid Plexus,Choroid Plexus
+Right-Cerebral-White-Matter,White Matter,White Matter
+Right-Cerebral-Cortex,Cerebral Cortex ,Cerebral Cortex 
+Right-Lateral-Ventricle,Lateral Ventricle ,Lateral Ventricle 
+Right-Inf-Lat-Vent,Inferior Lateral Ventricle ,Inferior Lateral Ventricle 
+Right-Cerebellum-White-Matter,Cerebellum White Matter ,Cerebellum White Matter 
+Right-Cerebellum-Cortex,Cerebellum Cortex ,Cerebellum Cortex 
+Right-Thalamus-Proper,Thalamus ,Thalamus 
+Right-Caudate,Caudate ,Caudate 
+Right-Putamen,Putamen ,Putamen 
+Right-Pallidum,Pallidum ,Pallidum 
+Right-Hippocampus,Hippocampus ,Hippocampus 
+Right-Amygdala,Amygdala ,Amygdala 
+Right-Accumbens-area,Accumbens area ,Accumbens area 
+Right-VentralDC,Ventral Diencephalon ,Ventral Diencephalon 
+Right-vessel,Vessel,Vessel
+Right-choroid-plexus,Choroid Plexus,Choroid Plexus
+5th-Ventricle,Fifth Ventricle,Fifth Ventricle
+WM-hypointensities,Unknown,Unknown
+Left-WM-hypointensities,Unknown,Unknown
+Right-WM-hypointensities,Unknown,Unknown
+non-WM-hypointensities,Unknown,Unknown
+Left-non-WM-hypointensities,Unknown,Unknown
+Right-non-WM-hypointensities,Unknown,Unknown
+Optic-Chiasm,Optic Chiasm,Optic Chiasm
+CC_Posterior,Posterior Corpus Callosum,Corpus Callosum
+CC_Mid_Posterior,Middle Posterior Corpus Callosum,Corpus Callosum
+CC_Central,Central Corpus Callosum,Corpus Callosum
+CC_Mid_Anterior,Middle Anterior Corpus Callosum,Corpus Callosum
+CC_Anterior,Anterior Corpus Callosum,Corpus Callosum

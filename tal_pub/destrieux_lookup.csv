@@ -1,0 +1,76 @@
+short,full,pretty
+G_and_S_frontomargin,Fronto-marginal gyrus (of Wernicke) and sulcus      ,Fronto-marginal gyrus and sulcus      
+G_and_S_occipital_inf,Inferior occipital gyrus (O3) and sulcus      ,Inferior occipital gyrus and sulcus      
+G_and_S_paracentral,Paracentral lobule and sulcus        ,Paracentral lobule and sulcus        
+G_and_S_subcentral,Subcentral gyrus (central operculum) and sulci      ,Subcentral gyrus (central operculum) and sulci      
+G_and_S_transv_frontopol,Transverse frontopolar gyri and sulci       ,Transverse frontopolar gyri and sulci       
+G_and_S_cingul-Ant,Anterior part of the cingulate gyrus and sulcus (ACC)   ,Cingulate gyrus and sulcus
+G_and_S_cingul-Mid-Ant,Middle-anterior part of the cingulate gyrus and sulcus (aMCC)   ,Cingulate gyrus and sulcus
+G_and_S_cingul-Mid-Post,Middle-posterior part of the cingulate gyrus and sulcus (pMCC)   ,Cingulate gyrus and sulcus 
+G_cingul-Post-dorsal,Posterior-dorsal part of the cingulate gyrus (dPCC)     ,Cingulate gyrus
+G_cingul-Post-ventral,"Posterior-ventral part of the cingulate gyrus (vPCC, isthmus of the cingulate gyrus)",Isthmus of the cingulate gyrus
+G_cuneus,Cuneus (O6) ,Cuneus
+G_front_inf-Opercular,Opercular part of the inferior frontal gyrus     ,Opercular part of the inferior frontal gyrus     
+G_front_inf-Orbital,Orbital part of the inferior frontal gyrus     ,Orbital part of the inferior frontal gyrus     
+G_front_inf-Triangul,Triangular part of the inferior frontal gyrus     ,Triangular part of the inferior frontal gyrus     
+G_front_middle,Middle frontal gyrus (F2)        ,Middle frontal gyrus
+G_front_sup,Superior frontal gyrus (F1)        ,Superior frontal gyrus
+G_Ins_lg_and_S_cent_ins,Long insular gyrus and central sulcus of the insula   ,Long insular gyrus and central sulcus of the insula   
+G_insular_short,Short insular gyri         ,Short insular gyri         
+G_occipital_middle,"Middle occipital gyrus (O2, lateral occipital gyrus)     ",Middle occipital gyrus (lateral occipital gyrus)     
+G_occipital_sup,Superior occipital gyrus (O1)        ,Superior occipital gyrus  
+G_oc-temp_lat-fusifor,"Lateral occipito-temporal gyrus (fusiform gyrus, O4-T4)      ",Lateral occipito-temporal gyrus
+G_oc-temp_med-Lingual,"Lingual gyrus, ligual part of the medial occipito-temporal gyrus, (O5)  ",Lingual gyrus
+G_oc-temp_med-Parahip,"Parahippocampal gyrus, parahippocampal part of the medial occipito-temporal gyrus, (T5)  ",Parahippocampal gyrus
+G_orbital,Orbital gyri          ,Orbital gyri          
+G_pariet_inf-Angular,Angular gyrus          ,Angular gyrus          
+G_pariet_inf-Supramar,Supramarginal gyrus          ,Supramarginal gyrus          
+G_parietal_sup,Superior parietal lobule (lateral part of P1)     ,Superior parietal lobule
+G_postcentral,Postcentral gyrus          ,Postcentral gyrus          
+G_precentral,Precentral gyrus          ,Precentral gyrus          
+G_precuneus,Precuneus (medial part of P1)       ,Precuneus
+G_rectus,"Straight gyrus, Gyrus rectus        ",Straight gyrus    
+G_subcallosal,"Subcallosal area, subcallosal gyrus        ","Subcallosal area, subcallosal gyrus        "
+G_temp_sup-G_T_transv,Anterior transverse temporal gyrus (of Heschl)      ,Anterior transverse temporal gyrus (of Heschl)      
+G_temp_sup-Lateral,Lateral aspect of the superior temporal gyrus     ,Superior temporal gyrus     
+G_temp_sup-Plan_polar,Planum polare of the superior temporal gyrus     ,Superior temporal gyrus     
+G_temp_sup-Plan_tempo,Planum temporale or temporal plane of the superior temporal gyrus  ,Planum temporale or temporal plane
+G_temporal_inf,Inferior temporal gyrus (T3)        ,Inferior temporal gyrus
+G_temporal_middle,Middle temporal gyrus (T2)        ,Middle temporal gyrus
+Lat_Fis-ant-Horizont,Horizontal ramus of the anterior segment of the lateral sulcus (or fissure),Anterior segment of the lateral sulcus
+Lat_Fis-ant-Vertical,Vertical ramus of the anterior segment of the lateral sulcus (or fissure),Anterior segment of the lateral sulcus
+Lat_Fis-post,Posterior ramus (or segment) of the lateral sulcus (or fissure)  ,Posterior ramus of the lateral sulcus
+Pole_occipital,Occipital pole          ,Occipital pole          
+Pole_temporal,Temporal pole          ,Temporal pole          
+S_calcarine,Calcarine sulcus          ,Calcarine sulcus          
+S_central,Central sulcus (RolandoÍs fissure)        ,Central sulcus
+S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus S,   ",Marginal branch of the cingulate sulcus
+S_circular_insula_ant,Anterior segment of the circular sulcus of the insula   ,Circular sulcus of the insula
+S_circular_insula_inf,Inferior segment of the circular sulcus of the insula   ,Circular sulcus of the insula
+S_circular_insula_sup,Superior segment of the circular sulcus of the insula   ,Circular sulcus of the insula
+S_collat_transv_ant,Anterior transverse collateral sulcus        ,Anterior transverse collateral sulcus        
+S_collat_transv_post,Posterior transverse collateral sulcus        ,Posterior transverse collateral sulcus        
+S_front_inf,Inferior frontal sulcus         ,Inferior frontal sulcus         
+S_front_middle,Middle frontal sulcus         ,Middle frontal sulcus         
+S_front_sup,Superior frontal sulcus         ,Superior frontal sulcus         
+S_interm_prim-Jensen,Sulcus intermedius primus (of Jensen)       ,Sulcus intermedius primus (of Jensen)       
+S_intrapariet_and_P_trans,Intraparietal sulcus (interparietal sulcus) and transverse parietal sulci    ,Intraparietal sulcus
+S_oc_middle_and_Lunatus,Middle occipital sulcus and lunatus sulcus      ,Middle occipital sulcus and lunatus sulcus      
+S_oc_sup_and_transversal,Superior occipital sulcus and transverse occipital sulcus     ,Superior occipital sulcus and transverse occipital sulcus     
+S_occipital_ant,Anterior occipital sulcus and preoccipital notch (temporo-occipital incisure)    ,Anterior occipital sulcus and preoccipital notch (temporo-occipital incisure)    
+S_oc-temp_lat,Lateral occipito-temporal sulcus         ,Lateral occipito-temporal sulcus         
+S_oc-temp_med_and_Lingual,Medial occipito-temporal sulcus (collateral sulcus) and lingual sulcus    ,Medial occipito-temporal sulcus (collateral sulcus) and lingual sulcus    
+S_orbital_lateral,Lateral orbital sulcus         ,Lateral orbital sulcus         
+S_orbital_med-olfact,Medial orbital sulcus (olfactory sulcus)       ,Olfactory sulcus
+S_orbital-H_Shaped,Orbital sulci (H-shaped sulci)        ,Orbital sulci
+S_parieto_occipital,Parieto-occipital sulcus (or fissure)        ,Parieto-occipital sulcus  
+S_pericallosal,Pericallosal sulcus (S of corpus callosum)      ,Pericallosal sulcus (S of corpus callosum)      
+S_postcentral,Postcentral sulcus          ,Postcentral sulcus          
+S_precentral-inf-part,Inferior part of the precentral sulcus      ,Precentral sulcus      
+S_precentral-sup-part,Superior part of the precentral sulcus      ,Precentral sulcus      
+S_suborbital,"Suborbital sulcus (sulcus rostrales, supraorbital sulcus)      ","Suborbital sulcus (sulcus rostrales, supraorbital sulcus)      "
+S_subparietal,Subparietal sulcus          ,Subparietal sulcus          
+S_temporal_inf,Inferior temporal sulcus         ,Inferior temporal sulcus         
+S_temporal_sup,Superior temporal sulcus (parallel sulcus)       ,Superior temporal sulcus
+S_temporal_transverse,Transverse temporal sulcus         ,Transverse temporal sulcus         
+Unknown,Unknown,Unknown
